@@ -9,8 +9,11 @@ EasyFlame extends existing approaches through its inclusion of an extra dimensio
 ## Using without download
 
 1: Visit https://www.xperflab.org/web/
-2: nagivate to '3D View' and then 'Example 3D view' 
+
+2: nagivate to '3D View' and then 'Example 3D view'
+
 3: Application will open. Open collapsable open panels to utilize multimetric analysis features. 
+
 Note: Due to cookie cache, visiting in an incognito browser will ensure the latest update is loaded. 
 
 ## Installation and build 
