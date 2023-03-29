@@ -7,6 +7,7 @@ This project, EasyFlame, is a performance analysis framework based on 3D flamegr
 EasyFlame extends existing approaches through its inclusion of an extra dimension that shows how a metric changing across time.
 
 ## Using without download
+
 1: Visit https://www.xperflab.org/web/
 2: nagivate to '3D View' and then 'Example 3D view' 
 3: Application will open. Open collapsable open panels to utilize multimetric analysis features. 
